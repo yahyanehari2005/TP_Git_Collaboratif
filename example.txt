@@ -5,3 +5,4 @@ Git permet de travailler en équipe.
 Git facilite le suivi des modifications.
 Nouvelle fonctionnalité : gestion des branches.
 Cette modification est réalisée dans la branche feature.
+Ligne de test suplementaire.
